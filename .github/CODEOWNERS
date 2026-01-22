@@ -1,0 +1,11 @@
+# Default owner for everything in the repo
+* @GS-mcsapo
+
+# PNG files owned by designer
+*.png @designer
+
+# Src/root directory owned by KernelTeam
+/Src/root/ @KernelTeam
+
+# array.cpp files owned by arrayexport
+array.cpp @arrayexport
