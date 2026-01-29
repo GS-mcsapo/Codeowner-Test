@@ -5,7 +5,7 @@
 *.png @designer
 
 # Src/root directory owned by KernelTeam
-/Src/root/ @KernelTeam @somedeveloper1
+/Src/root/ @KernelTeam @matyicsapo
 
 # array.cpp files owned by arrayexport
 array.cpp @arrayexpert @HoosLaszlo
